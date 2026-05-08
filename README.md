@@ -1,5 +1,5 @@
 # Helecho Café — Landing estática SEO local
-
+.
 Sitio estático en React + Vite + TypeScript para Helecho Café (Necochea), optimizado para SEO local y listo para publicar en GitHub Pages.
 
 ## Scripts
