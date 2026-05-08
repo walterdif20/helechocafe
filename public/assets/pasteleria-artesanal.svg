@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1600 1000" role="img" aria-label="Placeholder pastelería artesanal">
+  <defs><linearGradient id="g" x1="0" x2="1" y1="0" y2="1"><stop stop-color="#5A3E2B"/><stop offset="1" stop-color="#C9825B"/></linearGradient></defs>
+  <rect width="1600" height="1000" fill="url(#g)"/>
+  <text x="80" y="920" fill="#fff" font-size="64" font-family="Inter, sans-serif">Pastelería Artesanal Placeholder</text>
+</svg>
